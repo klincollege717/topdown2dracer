@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="2dRacer"
-run/main_scene="res://kit_lammy.tscn"
+run/main_scene="uid://dt16rq1ldcy42"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 

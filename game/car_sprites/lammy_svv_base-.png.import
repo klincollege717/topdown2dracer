@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqsgguxiyvorj"
-path="res://.godot/imported/lammy_svv_base-.png-72d35bc584f01f85d68118e1ea321455.ctex"
+path="res://.godot/imported/lammy_svv_base-.png-a1813fd539e1caaf194edbd84dab909c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://car_sprites/lammy_svv_base-.png"
-dest_files=["res://.godot/imported/lammy_svv_base-.png-72d35bc584f01f85d68118e1ea321455.ctex"]
+source_file="res://game/car_sprites/lammy_svv_base-.png"
+dest_files=["res://.godot/imported/lammy_svv_base-.png-a1813fd539e1caaf194edbd84dab909c.ctex"]
 
 [params]
 

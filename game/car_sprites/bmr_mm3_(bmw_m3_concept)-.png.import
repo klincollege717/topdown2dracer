@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d20d8j1r54hhe"
-path="res://.godot/imported/bmr_mm3_(bmw_m3_concept)-.png-d591fa9f258405320295de3a2d931f72.ctex"
+path="res://.godot/imported/bmr_mm3_(bmw_m3_concept)-.png-7d33687a2ce87edea2df974dc71e9b2a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://car_sprites/bmr_mm3_(bmw_m3_concept)-.png"
-dest_files=["res://.godot/imported/bmr_mm3_(bmw_m3_concept)-.png-d591fa9f258405320295de3a2d931f72.ctex"]
+source_file="res://game/car_sprites/bmr_mm3_(bmw_m3_concept)-.png"
+dest_files=["res://.godot/imported/bmr_mm3_(bmw_m3_concept)-.png-7d33687a2ce87edea2df974dc71e9b2a.ctex"]
 
 [params]
 

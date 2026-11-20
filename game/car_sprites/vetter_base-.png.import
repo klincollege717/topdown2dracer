@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpool1q36x7ho"
-path="res://.godot/imported/vetter_base-.png-16b9f01fc1ef3c6764d6d1642dff0f45.ctex"
+path="res://.godot/imported/vetter_base-.png-b0898a7ca7e12a4444296f47a3d27878.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://car_sprites/vetter_base-.png"
-dest_files=["res://.godot/imported/vetter_base-.png-16b9f01fc1ef3c6764d6d1642dff0f45.ctex"]
+source_file="res://game/car_sprites/vetter_base-.png"
+dest_files=["res://.godot/imported/vetter_base-.png-b0898a7ca7e12a4444296f47a3d27878.ctex"]
 
 [params]
 
